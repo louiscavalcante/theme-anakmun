@@ -1,0 +1,43 @@
+{
+	"name": "theme-anakmun",
+	"displayName": "Anakmun Theme",
+	"description": "Anakmun Theme based on Atom's One Dark Theme",
+	"publisher": "louiscavalcante",
+	"version": "3.1.4",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.61.0"
+	},
+	"icon": "assets/icon.png",
+	"author": {
+		"name": "Luiz Cavalcante",
+		"email": "louiscavalcante@hotmail.com",
+		"url": "https://louiscavalcante.github.io"
+	},
+	"repository": {
+		"url": "https://github.com/louiscavalcante/theme-anakmun.git",
+		"type": "git"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Anakmun Theme",
+				"uiTheme": "vs-dark",
+				"path": "./theme/anakmun-color-theme.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/louiscavalcante/theme-anakmun/issues"
+	},
+	"homepage": "https://github.com/louiscavalcante/theme-anakmun/blob/main/README.md",
+	"keywords": [
+		"Anakmun",
+		"Vscode",
+		"Theme",
+		"Onedark"
+	]
+}
