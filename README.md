@@ -1,5 +1,21 @@
-# Anakmun Theme Gif Preview
-![](assets/theme-anakmun.gif)
+<br>
+<p align="center">
+  <img src="assets/icon.png" alt="Anakmun Theme Image" />
+</p>
 
-# Higher Quality Video Preview
-https://user-images.githubusercontent.com/32718388/132814842-9709da2f-a15f-4a74-9a23-ef1a1b50a757.mp4
+<h1 align="center">
+    Anakmun Theme
+</h1>
+<br>
+
+![](assets/theme-anakmun.png)
+<br>
+<br>
+
+# Latest Changelog
+
+## [3.1.5] - 2021-10-24
+
+### Added
+
+-   New Peek background

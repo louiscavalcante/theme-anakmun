@@ -1,7 +1,10 @@
-# Change Log
+# Changelog
 
 The format is based on [Keep a Changelog](https://keepachangelog.com)
 
+## [3.1.5] - 2021-10-24
+### Added
+- New Peek background
 
 ## [3.1.4] - 2021-10-22
 ### Added
