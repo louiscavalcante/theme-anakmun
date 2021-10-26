@@ -945,7 +945,7 @@
 		{
 			"scope": "support.variable.property",
 			"settings": {
-				"foreground": "#61AFEF"
+				"foreground": "#e24754"
 			}
 		},
 		{
@@ -987,7 +987,6 @@
 		"variable.declaration": "#ffffff",
 		"variable.declaration.readonly": "#ffffff",
 		"variable.declaration.readonly.local": "#ffffff",
-		"parameter.declaration": "#f57e56",
-		"property.defaultLibrary": "#61AFEF"
+		"parameter.declaration": "#f57e56"
 	}
 }
