@@ -700,9 +700,27 @@
 			}
 		},
 		{
-			"scope": ["entity.name.class", "entity.name.module", "entity.name.type"],
+			"scope": ["entity.name.class", "entity.name.module", "entity.name.type.class"],
 			"settings": {
 				"foreground": "#6DE7C9"
+			}
+		},
+		{
+			"scope": ["entity.name.type"],
+			"settings": {
+				"foreground": "#84d1bd"
+			}
+		},
+		{
+			"scope": ["entity.name.type.interface"],
+			"settings": {
+				"foreground": "#dfe174"
+			}
+		},
+		{
+			"scope": ["entity.name.type.module"],
+			"settings": {
+				"foreground": "#c25596"
 			}
 		},
 		{

@@ -2,6 +2,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com)
 <br><br>
 
+## [3.2.0] - 2022-04-26
+### Added
+- Syntax Support: Typescript
+<br><br>
 ## [3.1.7] - 2021-10-25
 ### Fixed
 - One more type of propertie turned to "red" as intended
