@@ -25,7 +25,7 @@
 
 # Latest Changelog
 
-## [3.2.0] - 2022-04-26
-### Added
-- Syntax Support: Typescript
+## [3.3.0] - 2022-05-31
+### Fixed
+- Diff better readability
 <br><br>
