@@ -7,11 +7,11 @@
 		"activityBarBadge.background": "#528bff",
 		"activityBarBadge.foreground": "#f8fafd",
 		"button.background": "#528bff",
-    "diffEditor.insertedLineBackground": "#03c7ee18",
-		"diffEditor.insertedTextBackground": "#03a2c262",
+		"diffEditor.insertedLineBackground": "#ffffff00",
+		"diffEditor.insertedTextBackground": "#ffffff16",
 		"diffEditor.insertedTextBorder": "#03a2c28c",
-		"diffEditor.removedLineBackground": "#ff000033",
-		"diffEditor.removedTextBackground": "#c0050542",
+		"diffEditor.removedLineBackground": "#ff000000",
+		"diffEditor.removedTextBackground": "#c0050517",
 		"diffEditor.removedTextBorder": "#c005057c",
 		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181a1f",
@@ -706,13 +706,13 @@
 		{
 			"scope": ["entity.name.class", "entity.name.module", "entity.name.type.class"],
 			"settings": {
-				"foreground": "#6DE7C9"
+				"foreground": "#06d9e8"
 			}
 		},
 		{
 			"scope": ["entity.name.type"],
 			"settings": {
-				"foreground": "#84d1bd"
+				"foreground": "#08c791"
 			}
 		},
 		{
@@ -812,12 +812,7 @@
 			}
 		},
 		{
-			"scope": [
-				"support.constant.css",
-				"support.constant.scss",
-				"support.constant.less",
-				"support.constant.sass"
-			],
+			"scope": ["support.constant.css", "support.constant.scss", "support.constant.less", "support.constant.sass"],
 			"settings": {
 				"foreground": "#56B6C2"
 			}
@@ -829,12 +824,7 @@
 			}
 		},
 		{
-			"scope": [
-				"variable.css.string",
-				"variable.scss.string",
-				"variable.less.string",
-				"variable.sass.string"
-			],
+			"scope": ["variable.css.string", "variable.scss.string", "variable.less.string", "variable.sass.string"],
 			"settings": {
 				"foreground": "#98C379"
 			}
@@ -858,11 +848,7 @@
 			}
 		},
 		{
-			"scope": [
-				"variable.other.property",
-				"variable.other.constant.property",
-				"variable.other.object.property"
-			],
+			"scope": ["variable.other.property", "variable.other.constant.property", "variable.other.object.property"],
 			"settings": {
 				"foreground": "#e24754"
 			}
@@ -971,10 +957,7 @@
 			}
 		},
 		{
-			"scope": [
-				"punctuation.definition.template-expression.begin",
-				"punctuation.definition.template-expression.end"
-			],
+			"scope": ["punctuation.definition.template-expression.begin", "punctuation.definition.template-expression.end"],
 			"settings": {
 				"foreground": "#FFFFFF"
 			}
