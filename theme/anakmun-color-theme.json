@@ -30,7 +30,7 @@
 		"editorGroupHeader.tabsBackground": "#21252b",
 		"editorHoverWidget.background": "#21252b",
 		"editorHoverWidget.border": "#181a1f",
-		"editorIndentGuide.background": "#3b4048",
+		"editorIndentGuide.background1": "#3b4048",
 		"editorLineNumber.foreground": "#495162",
 		"editorRuler.foreground": "#484848",
 		"editorSuggestWidget.background": "#21252b",
@@ -736,7 +736,7 @@
 		{
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#E06C75",
+				"foreground": "#9997f4",
 				"fontStyle": ""
 			}
 		},

@@ -16,7 +16,7 @@
 
 # Latest Changelog
 
-## [3.4.0] - 2023-03-22
-### Fixed
-- Diff better readability
+## [3.5.0] - 2024-04-25
+### Added
+- Syntax Support: React.js
 <br><br>
